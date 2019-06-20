@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "Hello World",
+      "id": 1
+    },
+    {
+      "title": "Channel 2",
+      "description": "Another channel...",
+      "id": 2
+    },
+    {
+      "title": "Channel 3",
+      "description": "Another channel...",
+      "id": 3
+    },
+    {
+      "title": "Happy Shark",
+      "description": "Happy Shark Song and Dance!",
+      "id": 4
+    }
+  ]
+}
